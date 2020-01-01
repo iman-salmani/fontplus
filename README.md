@@ -2,7 +2,7 @@
 
 Features:
   RTL Support font object:
-    Persian
+    Persian,
     Arabic
 
 How to use:
