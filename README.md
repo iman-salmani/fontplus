@@ -1,2 +1,12 @@
 # fontplus
-Blender plugin for Better Font support like RTL languages support and coming soon... forked from Write arabic text
+
+Features:
+  RTL Support font object:
+    Persian
+    Arabic
+
+How to use:
+  RTL Support:
+    Enable plugin only :)
+
+forked from Arabic Text Writer: https://developer.blender.org/T62011
